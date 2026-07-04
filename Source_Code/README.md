@@ -1,17 +1,13 @@
-# Output
+# Source Code
 
-Folder ini berisi seluruh hasil analisis yang dihasilkan dari implementasi metode pada penelitian.
+Folder ini berisi seluruh source code yang digunakan dalam proses penelitian, mulai dari pengambilan data, preprocessing, Topic Modeling, Clustering, hingga Social Network Analysis.
 
-Output yang dihasilkan meliputi hasil Topic Modeling menggunakan Latent Dirichlet Allocation (LDA), Clustering menggunakan Frequent Term-Based Clustering (FTC), Social Network Analysis (SNA), Community Detection, serta hasil integrasi dan interpretasi data.
+Seluruh program dikembangkan menggunakan bahasa pemrograman Python dan dijalankan melalui Google Colab.
 
 ## Isi Folder
 
-Folder ini memuat berbagai file hasil analisis, di antaranya:
+- **UAS_Pembelajaran_Mesin_Topik_3_MBG2026.ipynb**  
+  Notebook Google Colab yang memuat seluruh tahapan penelitian secara lengkap.
 
-- Hasil Topic Modeling (LDA)
-- Hasil Clustering FTC
-- Hasil Social Network Analysis (SNA)
-- Hasil Community Detection (Louvain)
-- Hasil Integrasi Analisis
-- Hasil Interpretasi
-- File pendukung analisis berupa CSV dan Excel
+- **UAS_Pembelajaran_Mesin_Topik_3_MBG2026.py**  
+  Source code Python hasil ekspor dari notebook Google Colab yang berisi implementasi seluruh metode yang digunakan dalam penelitian.
